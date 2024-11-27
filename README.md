@@ -2,11 +2,13 @@
 
 ## Ficha 1
 
-1. **Criar a Base de Dados Airport**:
-   - Projetar e implementar a base de dados `Airport` com base no modelo fornecido no PDF.
+**Criar a Base de Dados Airport**:
 
-2. **Criar a Base de Dados Salmon River**:
-   - Desenvolver uma base de dados para rios com salmão do atlântico `SalmonRiver` seguindo o modelo especificado no PDF.
+- Projetar e implementar a base de dados `Airport` com base no modelo fornecido no PDF.
+
+**Criar a Base de Dados Salmon River**:
+
+- Desenvolver uma base de dados para rios com salmão do atlântico `SalmonRiver` seguindo o modelo especificado no PDF.
 
 ## Ficha 2
 
